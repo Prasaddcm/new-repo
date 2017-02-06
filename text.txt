@@ -1,3 +1,4 @@
 this is a sample file:wq!
 second line added
+3rd line added
 
